@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/93661343.svg)](https://zenodo.org/badge/latestdoi/93661343)
+
 # Constraints on the Wilson coefficients C<sub>7</sub> and C'<sub>7</sub>
 
 The plots inside this repository ("[C7_C7p.pdf](https://github.com/peterstangl/constraints_c7_c7p/blob/master/C7_C7p.pdf)" and "[C7_C7p_BR_separately.pdf](https://github.com/peterstangl/constraints_c7_c7p/blob/master/C7_C7p_BR_separately.pdf)") show the constraints on the Wilson coefficients C<sub>7</sub> and C'<sub>7</sub>, derived from several fits that include different combinations of observables.
